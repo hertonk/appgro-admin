@@ -14,5 +14,5 @@
 export const environment = {
   production: false,
   baseUrl: 'https://appagro.online/api/', // ex https://yourapi.com/public/api/ don't forgot to add public/api/ at the end
-  imageUrl: 'https://appagro.online/api/storage/images/', // ex https://yourapi.com/public/storage/images/ don't forgot to add public/storage/images at the end
+  imageUrl: 'https://appagro.online/public/storage/images/', // ex https://yourapi.com/public/storage/images/ don't forgot to add public/storage/images at the end
 };
